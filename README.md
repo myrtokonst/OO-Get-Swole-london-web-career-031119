@@ -18,30 +18,29 @@ Here's what we need to be able to do.
 
 **Lifter**
 
-  - Get a list of all lifters
 
-  - Get a list of all the memberships that a specific lifter has
 
-  - Get a list of all the gyms that a specific lifter has memberships to
+  - DONE Get a list of all the memberships that a specific lifter has: ARRAY OF MEMBERSHIPS
 
-  - Get the average lift total of all lifters
+  - DONE Get a list of all the gyms that a specific lifter has memberships to: ARRAY OF GYMS
 
-  - Get the total cost of a specific lifter's gym memberships
+  - DONE Get the average lift total of all lifters: AVERAGE LIFT TOTAL?
 
-  - Given a gym and a membership cost, sign a specific lifter up for a new gym
+  - DONE Get the total cost of a specific lifter's gym memberships: COST OF ALL MEMBERSHIPS
+
+  - DONE Given a gym and a membership cost, sign a specific lifter up for a new gym : NEW MEMBERSHIP
 
 **Membership**
 
-  - Get a list of all memberships
 
 **Gym**
 
-  - Get a list of all gyms
 
-  - Get a list of all memberships at a specific gym
 
-  - Get a list of all the lifters that have a membership to a specific gym
+  - DONE Get a list of all memberships at a specific gym: ARRAY OF MEMBERSHIPS AT GYM
 
-  - Get a list of the names of all lifters that have a membership to that gym
+  - DONE Get a list of all the lifters that have a membership to a specific gym: ARRAY OF LIFTERS AT GYM
+
+  - DONE Get a list of the names of all lifters that have a membership to that gym: NAMES OF LIFTERS
 
   - Get the combined lift total of every lifter has a membership to that gym
